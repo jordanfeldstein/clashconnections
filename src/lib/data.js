@@ -1,27 +1,26 @@
 export const CONNECTION_GAMES = [
     [
         {
-            category: "Hall of Fame Quarterbacks",
-            words: ["Joe Montana", "Peyton Manning", "Brett Favre", "Dan Marino"],
+            category: "Grades",
+            words: ["Freshmen", "Sophomores", "Juniors", "Senior"],
             difficulty: 1,
         },
         {
-            category: "Top 4 WRs in 2023 Draft",
-            words: ["Jaxon Smith-Njigba", "Quentin Johnson", "Zay Flowers", "Jordan Addison"],
+            category: "AP Electives",
+            words: ["Statistics", "Computer Science", "Psychology", "Art History"],
             difficulty: 2,
         },
         {
-            category: "Current NY Giants",
-            words: ["Daniel Jones", "Andrew Thomas", "Saquon Barkley", "Jalin Hyatt"],
+            category: "Clash Activities",
+            words: ["Knockout", "Tug Of War", "Musical Chairs", "Three-Legged Race"],
             difficulty: 3,
         },
         {
-            category: "Penn State Alumni",
-            words: ["Micah Parsons", "Jahan Dotson", "Miles Sanders", "Chris Godwin"],
+            category: "Clubs That Meet On Wednesday",
+            words: ["OCC", "Vedda", "Tri-M", "Deca"],
             difficulty: 4,
         },
     ],
-
 
     [
         {
