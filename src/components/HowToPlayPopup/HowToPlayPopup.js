@@ -42,11 +42,6 @@ function HowToPlayPopup() {
                             <li>Hard = 🟦</li>
                             <li>Tricky = 🟪</li>
                         </ul>
-                    </Typography>
-                            <Typography variant="body2">
-                        Developed By Jordan Feldstein
-                        </ul>
-                    </Typography>
                 </DialogContent>
                 <DialogActions>
                     <Button onClick={handleClose} color="primary" class="bg-[#10172A] hover:bg-[#0C1425] text-white p-2 rounded">
