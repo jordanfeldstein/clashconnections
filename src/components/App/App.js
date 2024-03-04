@@ -17,7 +17,6 @@ function App() {
                     <Header />
                     <HowToPlayPopup />
                     <Game />
-                    <Footer />
                 </div>
             </GameStatusProvider>
         </PuzzleDataProvider>
