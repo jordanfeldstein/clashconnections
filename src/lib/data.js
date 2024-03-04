@@ -22,6 +22,7 @@ export const CONNECTION_GAMES = [
         },
     ],
 
+    
     [
         {
             category: "Detroit Lions Players",
