@@ -21,24 +21,16 @@ function HowToPlayPopup() {
                 How to Play
             </Button>
             <Dialog open={open} onClose={handleClose}>
-                <DialogTitle>Welcome to the NFL Connections!</DialogTitle>
+                <DialogTitle>Welcome to the Clash Connections!</DialogTitle>
                 <DialogContent>
                     <Typography variant="body1">
                     </Typography>
                     <Typography variant="body1">
-                        Your mission is to identify groups of four items that share a common connection within the world of NFL.
+                        Your mission is to identify groups of four items that share a common connection.
 
                         Select four items that you believe belong to the same category, then tap 'Submit' to check if your guess is accurate.
 
                         The challenge is to identify these groups without making four incorrect guesses. Stay sharp!
-                    </Typography>
-                    <Typography variant="body1">-</Typography>
-                    <Typography variant="body2">
-                        Category Examples:
-                        <ul>
-                            <li>NFL QUARTERBACKS: Tom Brady, Peyton Manning, Joe Montana, Brett Favre</li>
-                            <li>SUPER BOWL WINNERS: New England Patriots, Pittsburgh Steelers, San Francisco 49ers, Green Bay Packers</li>
-                        </ul>
                     </Typography>
                     <Typography variant="body1">-</Typography>
                     <Typography variant="body2">
@@ -48,6 +40,15 @@ function HowToPlayPopup() {
                             <li>Medium = 🟩</li>
                             <li>Hard = 🟦</li>
                             <li>Tricky = 🟪</li>
+                        </ul>
+                    </Typography>
+                    <Typography variant="body1">-</Typography>
+                    <Typography variant="body2">
+                        <ul>
+                           <li></li>
+                            <li></li>
+                            <li></li>
+                            <li>Developed By Jordan Feldstein</li> 
                         </ul>
                     </Typography>
                 </DialogContent>
