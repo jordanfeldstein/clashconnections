@@ -25,23 +25,23 @@ export const CONNECTION_GAMES = [
     
     [
         {
-            category: "Detroit Lions Players",
-            words: ["Aidan Hutchinson", "Jameson Williams", "Amon-Ra St. Brown", "Jared Goff"],
+            category: "Grade Clash Colors",
+            words: ["Red", "Blue", "White", "Black"],
             difficulty: 1,
         },
         {
-            category: "NE Patriots Players",
-            words: ["Kendrick Bourne", "Mac Jones", "Christian Gonzalez", "Rhamondre Stevenson"],
+            category: "Roslyn Bagel Places",
+            words: ["Goody’s", "IBagel", "Barbara’s", "Bagel Boss"],
             difficulty: 2,
         },
         {
-            category: "Alabama Running Backs",
-            words: ["Najee Harris", "Damien Harris", "Josh Jacobs", "Jahmyr Gibbs"],
+            category: "Department Chairs",
+            words: ["Ramonetti", "Sapir", "Windwer", "Faulkner"],
             difficulty: 3,
         },
         {
-            category: "Michigan Defensive Players",
-            words: ["Dax Hill", "Jabrill Peppers", "Mazi Smith", "Jourdan Lewis"],
+            category: "Past RTV Segments",
+            words: ["Pledge", "Trivia", "This or That", "Teacher vs Teacher"],
             difficulty: 4,
         },
     ],
@@ -49,23 +49,23 @@ export const CONNECTION_GAMES = [
 
     [
         {
-            category: "Starting Tight Ends",
-            words: ["Kyle Pitts", "Darren Waller", "Travis Kelce", "Trey McBride"],
+            category: "Spring Sports",
+            words: ["Lacrosse", "Flag Football", "Tennis", "Baseball"],
             difficulty: 1,
         },
         {
-            category: "First Round Draft Picks in 2021",
-            words: ["Jaylen Waddle", "Patrick Surtain II", "Devonta Smith", "Najee Harris"],
+            category: "Math Teachers",
+            words: ["Edelman", "Carman", "Loughran", "Lee"],
             difficulty: 2,
         },
         {
-            category: "Miami Receivers",
-            words: ["Tyreek Hill", "Cedrick Wilson", "Braxton Berrios", "Durham Smythe"],
+            category: "Towns Surrounding Roslyn",
+            words: ["Greenvale", "Old Westbury", "Albertson", "Manhasset"],
             difficulty: 3,
         },
         {
-            category: "Super Bowl LIV Players",
-            words: ["Raheem Mostert", "Harrison Butker", "Jimmy Garappolo", "Richard Sherman"],
+            category: "Roslyn Principals",
+            words: ["Johanson", "Andrews", "Hazen", "Ma"],
             difficulty: 4,
         },
     ],
