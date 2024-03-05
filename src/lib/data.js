@@ -84,12 +84,12 @@ export const CONNECTION_GAMES = [
         },
         {
             category: "Guidance Counselors",
-            words: ["Geller", "Santos", "Caruso", "Totillo"],
+            words: ["Lazzaro", "Santos", "Caruso", "Totillo"],
             difficulty: 3,
         },
         {
             category: "Teachers Names That Start with J",
-            words: ["Sorensen", "Valente", "Mumma", "Dispigno"],
+            words: ["Sorensen", "Geller", "Mumma", "Dispigno"],
             difficulty: 4,
         },
     ],
