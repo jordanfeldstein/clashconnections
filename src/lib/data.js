@@ -46,6 +46,30 @@ export const CONNECTION_GAMES = [
         },
     ],
 
+    
+    [
+        {
+            category: "Roslyn Pizza Places",
+            words: ["Ginos", "Marinara", "Carlos", "Abeetza"],
+            difficulty: 1,
+        },
+        {
+            category: "Places To Go During Free",
+            words: ["Cafe", "Study Center", "Library", "Lounge"],
+            difficulty: 2,
+        },
+        {
+            category: "Guidance Counselors",
+            words: ["Lazzaro", "Santos", "Caruso", "Totillo"],
+            difficulty: 3,
+        },
+        {
+            category: "Teachers Names That Start with J",
+            words: ["Sorensen", "Geller", "Mumma", "Dispigno"],
+            difficulty: 4,
+        },
+    ],
+    
 
     [
         {
@@ -66,30 +90,6 @@ export const CONNECTION_GAMES = [
         {
             category: "Roslyn Principals",
             words: ["Johanson", "Andrews", "Hazen", "Ma"],
-            difficulty: 4,
-        },
-    ],
-
-
-    [
-        {
-            category: "Roslyn Pizza Places",
-            words: ["Ginos", "Marinara", "Carlos", "Abeetza"],
-            difficulty: 1,
-        },
-        {
-            category: "Places To Go During Free",
-            words: ["Cafe", "Study Center", "Library", "Lounge"],
-            difficulty: 2,
-        },
-        {
-            category: "Guidance Counselors",
-            words: ["Lazzaro", "Santos", "Caruso", "Totillo"],
-            difficulty: 3,
-        },
-        {
-            category: "Teachers Names That Start with J",
-            words: ["Sorensen", "Geller", "Mumma", "Dispigno"],
             difficulty: 4,
         },
     ],
