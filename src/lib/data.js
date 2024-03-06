@@ -1,6 +1,30 @@
 export const CONNECTION_GAMES = [
     [
         {
+            category: "AP Electives",
+            words: ["Stat", "Comp Sci", "Psych", "Art History"],
+            difficulty: 1,
+        },
+        {
+            category: "21st Century Classes",
+            words: ["Java", "DDP", "Robotics", "Media Broadcasting"],
+            difficulty: 2,
+        },
+        {
+            category: "Musically related clubs",
+            words: ["RCP", "RMB", "Jazz Project", "Choir"],
+            difficulty: 3,
+        },
+        {
+            category: "Clubs That Meet On Wednesday",
+            words: ["OCC", "VEDDA", "Tri-M Music Honors Society", "DECA"],
+            difficulty: 4,
+        },
+    ],
+    
+    
+    [
+        {
             category: "Grade Clash Colors",
             words: ["Red", "Blue", "White", "Black"],
             difficulty: 1,
@@ -42,30 +66,6 @@ export const CONNECTION_GAMES = [
         {
             category: "Teachers Names That Start with J",
             words: ["Sorensen", "Geller", "Mumma", "Dispigno"],
-            difficulty: 4,
-        },
-    ],
-
-
-     [
-        {
-            category: "AP Electives",
-            words: ["Stat", "Comp Sci", "Psych", "Art History"],
-            difficulty: 1,
-        },
-        {
-            category: "21st Century Classes",
-            words: ["Java", "DDP", "Robotics", "Media Broadcasting"],
-            difficulty: 2,
-        },
-        {
-            category: "Musically related clubs",
-            words: ["RCP", "RMB", "Jazz Project", "Choir"],
-            difficulty: 3,
-        },
-        {
-            category: "Clubs That Meet On Wednesday",
-            words: ["OCC", "VEDDA", "Tri-M Music Honors Society", "DECA"],
             difficulty: 4,
         },
     ],
