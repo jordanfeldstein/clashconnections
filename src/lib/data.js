@@ -46,8 +46,8 @@ export const CONNECTION_GAMES = [
         },
     ],
 
-    
-    [
+
+     [
         {
             category: "AP Electives",
             words: ["Stat", "Comp Sci", "Psych", "Art History"],
@@ -66,30 +66,6 @@ export const CONNECTION_GAMES = [
         {
             category: "Clubs That Meet On Wednesday",
             words: ["OCC", "VEDDA", "Tri-M Music Honors Society", "DECA"],
-            difficulty: 4,
-        },
-    ],
-
-    
-    [
-        {
-            category: "Spring Sports",
-            words: ["Lacrosse", "Flag Football", "Tennis", "Baseball"],
-            difficulty: 1,
-        },
-        {
-            category: "Math Teachers",
-            words: ["Edelman", "Carman", "Loughran", "Lee"],
-            difficulty: 2,
-        },
-        {
-            category: "Towns Surrounding Roslyn",
-            words: ["Greenvale", "Old Westbury", "Albertson", "Manhasset"],
-            difficulty: 3,
-        },
-        {
-            category: "Roslyn Principals",
-            words: ["Johanson", "Andrews", "Hazen", "Ma"],
             difficulty: 4,
         },
     ],
