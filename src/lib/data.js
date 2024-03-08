@@ -1,23 +1,23 @@
 export const CONNECTION_GAMES = [
     [
         {
-            category: "Spring Sports",
-            words: ["Lacrosse", "Flag Football", "Tennis", "Baseball"],
+            category: "Languages Offered",
+            words: ["Spanish", "French", "Mandarin", "English"],
             difficulty: 1,
         },
         {
-            category: "School Supplies",
-            words: ["Stapler", "Pencil", "Computer", "Paper"],
+            category: "Roslyn Principals",
+            words: ["Andrews", "Johanson", "Hazen", "Ma"],
             difficulty: 2,
         },
         {
-            category: "Anything But a Backpack",
-            words: ["Car", "Microwave", "Cooler", "Printer"],
+            category: "Departments That Don't Have an Instagram",
+            words: ["Math", "Science", "Social Studies", "Language"],
             difficulty: 3,
         },
         {
-            category: "Materials for X-Period Activities",
-            words: ["Rope", "Basketball", "Scooter", "Chair"],
+            category: "Teacher’s Names That Could Be First Names",
+            words: ["Simon", "Kim", "Stevens", "Charles"],
             difficulty: 4,
         },
     ],
